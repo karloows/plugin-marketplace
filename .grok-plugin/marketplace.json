@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/karloows/orchraft.git",
-        "sha": "8da5726c5f0ae8217ea76cae2d49fe8d253e00fa"
+        "sha": "32d3c4474a6af75ff5a41c7890f2a9291c768a3d"
       },
       "homepage": "https://github.com/karloows/orchraft",
       "keywords": ["orchraft"]

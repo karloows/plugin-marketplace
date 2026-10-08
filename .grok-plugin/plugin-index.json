@@ -651,8 +651,8 @@
       }
     },
     "orchraft": {
-      "sha": "8da5726c5f0ae8217ea76cae2d49fe8d253e00fa",
-      "version": "1.2.0",
+      "sha": "32d3c4474a6af75ff5a41c7890f2a9291c768a3d",
+      "version": "1.2.1",
       "components": {
         "agents": [
           {
