@@ -775,7 +775,7 @@
       }
     },
     "pstack": {
-      "sha": "df581122cde17e6e27686b5a448bde23e4ad4318",
+      "sha": "d0ef80d86795816da932a153458c5dbe192d294e",
       "components": {
         "agents": [
           {
@@ -1074,8 +1074,8 @@
       }
     },
     "stripe": {
-      "sha": "e4856d5f871fb9c347db2ce8e5a96f6513393d11",
-      "version": "0.9.10",
+      "sha": "9b91884e43839591abd6ee3c70667b2e71d5e687",
+      "version": "0.9.11",
       "components": {
         "agents": [
           {
@@ -1460,8 +1460,8 @@
       }
     },
     "vercel": {
-      "sha": "f42fa617f208b3b192c9ec636cba1fb025924407",
-      "version": "0.54.0",
+      "sha": "82fa491886796702df4727fd0845f0c7c1d3d16e",
+      "version": "0.54.1",
       "components": {
         "agents": [
           {
@@ -1655,8 +1655,8 @@
       }
     },
     "wix": {
-      "sha": "4895cc9094b4fef2cf7cb7a2c408644aa58ab19d",
-      "version": "1.26.0",
+      "sha": "6461e8dd0a4e2649d211cdbc65c699c6e44f86a2",
+      "version": "1.30.0",
       "components": {
         "mcpServers": [
           {
@@ -1696,6 +1696,10 @@
           {
             "name": "wix-headless-kit",
             "description": "Build a Wix Headless site fast by wiring SHIPPED, verified @wix/sdk code instead of authoring the integration from reci…"
+          },
+          {
+            "name": "wix-headless-templates",
+            "description": "The shipped, verified code behind Wix Headless sites, one folder per Wix Business Solution: an online store, bookings,…"
           },
           {
             "name": "wix-manage",
